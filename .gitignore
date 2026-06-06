@@ -2,3 +2,5 @@ movie.csv
 rating.csv
 tag.csv
 # images_for_readme/
+.venv
+pytut
